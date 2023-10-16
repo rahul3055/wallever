@@ -1,0 +1,11 @@
+{
+   "AppName": "wallever_test",
+  "AdType": "facebook",
+  "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "Rectangle": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "Interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "NativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "Rewarded": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdShowCounter": "1"
+}
